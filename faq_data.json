@@ -1,0 +1,21 @@
+{
+    "What is a list in Python?": "A list is a collection of items that can be changed and ordered.",
+    "How do I write a function?": "Use the def keyword, like: def my_function():",
+    "What is a dictionary in Python?": "A dictionary is a collection of key-value pairs.",
+    "How do I install a package?": "Use pip install followed by the package name.",
+    "What is a for loop?": "A for loop is used to iterate over a sequence like a list or range.",
+    "What is a lambda function?": "A lambda function is an anonymous function expressed as a single statement using the `lambda` keyword.",
+    "How do I handle errors in Python?": "You can handle errors using try-except blocks to catch and respond to exceptions.",
+    "What is the difference between a list and a tuple?": "Lists are mutable and can be changed, while tuples are immutable and cannot be changed after creation.",
+    "How do I read a file in Python?": "Use the `open()` function with the `'r'` mode, and then call `.read()` or loop through the lines.",
+    "What is list comprehension?": "List comprehension is a concise way to create lists using a single line of code, like `[x for x in range(5)]`.",
+    "What does the `self` keyword do?": "`self` refers to the instance of the class and is used to access variables and methods within the class.",
+    "What is the difference between `is` and `==`?": "`==` checks if values are equal, while `is` checks if they refer to the same object in memory.",
+    "How do I install a package in Python?": "Use pip: run `pip install package_name` in your terminal or command prompt.",
+    "What is a virtual environment?": "A virtual environment is an isolated Python environment where you can install packages without affecting the global Python setup.",
+    "How can I loop through a list?": "Use a `for` loop like: `for item in my_list:` to iterate over each element.",
+    "What does `None` mean in Python?": "`None` is a special constant representing the absence of a value or a null value.",
+    "What is the purpose of `__init__` in a class?": "`__init__` is the constructor method that initializes a newly created object.",
+    "How do I check the type of a variable?": "Use the `type()` function, like `type(my_var)`, to get the variable’s data type.",
+    "What is a Python module?": "A module is a file containing Python code (functions, classes, variables) that can be imported into other programs."
+}
